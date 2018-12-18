@@ -1,0 +1,31 @@
+{
+  "name": "jnum-server-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/jnum.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lib",
+    "server",
+    "wrapper",
+    "express",
+    "winston",
+    "http",
+    "http2"
+  ],
+  "author": "Alan M.E",
+  "license": "MIT",
+  "dependencies": {
+    "app-context-js": "^1.1.0",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
